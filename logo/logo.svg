@@ -1,0 +1,42 @@
+<svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg" class="icon">
+ <defs>
+  <style type="text/css"/>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" fill="#d4237a" d="m924,0l-824,0c-55,0 -100,45 -100,100l0,824c0,55 45,100 100,100l824,0c55,0 100,-45 100,-100l0,-824c0,-55 -45,-100 -100,-100zm55,924c0,14.58 -5.75,28.36 -16.19,38.81s-24.23,16.19 -38.81,16.19l-824,0c-14.58,0 -28.36,-5.75 -38.81,-16.19s-16.19,-24.23 -16.19,-38.81l0,-609l934,0l0,609zm-934,-654l0,-170c0,-14.58 5.75,-28.36 16.19,-38.81c10.45,-10.44 24.23,-16.19 38.81,-16.19l824,0c14.58,0 28.36,5.75 38.81,16.19c10.44,10.45 16.19,24.23 16.19,38.81l0,170l-934,0z"/>
+  <path id="svg_2" fill="#d4237a" d="m157.5,157.5m-22.5,0a22.5,22.5 0 1 0 45,0a22.5,22.5 0 1 0 -45,0z"/>
+  <path id="svg_3" fill="#d4237a" d="m292.5,157.5m-22.5,0a22.5,22.5 0 1 0 45,0a22.5,22.5 0 1 0 -45,0z"/>
+  <path id="svg_4" fill="#d4237a" d="m427.5,157.5m-22.5,0a22.5,22.5 0 1 0 45,0a22.5,22.5 0 1 0 -45,0z"/>
+  <path id="svg_12" fill="#d4237a" d="m157.5,157.5m-22.5,0a22.5,22.5 0 1 0 45,0a22.5,22.5 0 1 0 -45,0z"/>
+  <path id="svg_24" fill="#d4237a" d="m924,0l-824,0c-55,0 -100,45 -100,100l0,824c0,55 45,100 100,100l824,0c55,0 100,-45 100,-100l0,-824c0,-55 -45,-100 -100,-100zm55,924c0,14.58 -5.75,28.36 -16.19,38.81s-24.23,16.19 -38.81,16.19l-824,0c-14.58,0 -28.36,-5.75 -38.81,-16.19s-16.19,-24.23 -16.19,-38.81l0,-609l934,0l0,609zm-934,-654l0,-170c0,-14.58 5.75,-28.36 16.19,-38.81c10.45,-10.44 24.23,-16.19 38.81,-16.19l824,0c14.58,0 28.36,5.75 38.81,16.19c10.44,10.45 16.19,24.23 16.19,38.81l0,170l-934,0z"/>
+  <g id="svg_54">
+   <ellipse ry="139.999382" rx="89.999603" id="svg_48" cy="539.187382" cx="480.379811" stroke-opacity="null" stroke-width="null" stroke="null" fill="#ff7f00"/>
+   <path id="svg_49" fill="#ff7f00" d="m539.342229,385m-22.5,0a22.5,22.5 0 1 0 45,0a22.5,22.5 0 1 0 -45,0z"/>
+   <path id="svg_50" fill="#ff7f00" d="m422.128479,385m-22.5,0a22.5,22.5 0 1 0 45,0a22.5,22.5 0 1 0 -45,0z"/>
+   <rect stroke="null" id="svg_51" height="45.454431" width="204.484347" y="441.886568" x="378.334042" stroke-opacity="null" stroke-width="null" fill="#ff7f00"/>
+   <rect stroke="null" id="svg_52" height="45.454431" width="205.817707" y="596.442323" x="378.334042" stroke-opacity="null" stroke-width="null" fill="#ff7f00"/>
+   <rect stroke="null" id="svg_53" height="45.454431" width="227.817689" y="518.260698" x="365.667367" stroke-opacity="null" stroke-width="null" fill="#ff7f00"/>
+  </g>
+  <g id="svg_61">
+   <ellipse ry="139.999382" rx="89.999603" id="svg_55" cy="539.187382" cx="751.671009" stroke-opacity="null" stroke-width="null" stroke="null" fill="#d4237a"/>
+   <path id="svg_56" fill="#d4237a" d="m810.633428,385m-22.5,0a22.5,22.5 0 1 0 45,0a22.5,22.5 0 1 0 -45,0z"/>
+   <path id="svg_57" fill="#d4237a" d="m693.419678,385m-22.5,0a22.5,22.5 0 1 0 45,0a22.5,22.5 0 1 0 -45,0z"/>
+   <rect stroke="null" id="svg_58" height="45.454431" width="204.484347" y="441.886568" x="649.62524" stroke-opacity="null" stroke-width="null" fill="#d4237a"/>
+   <rect stroke="null" id="svg_59" height="45.454431" width="205.817707" y="596.442323" x="649.62524" stroke-opacity="null" stroke-width="null" fill="#d4237a"/>
+   <rect stroke="null" id="svg_60" height="45.454431" width="227.817689" y="518.260698" x="636.958566" stroke-opacity="null" stroke-width="null" fill="#d4237a"/>
+  </g>
+  <g id="svg_68">
+   <ellipse ry="139.999382" rx="89.999603" id="svg_62" cy="539.187382" cx="212.493571" stroke-opacity="null" stroke-width="null" stroke="null" fill="#007fff"/>
+   <path id="svg_63" fill="#007fff" d="m271.455991,385m-22.5,0a22.5,22.5 0 1 0 45,0a22.5,22.5 0 1 0 -45,0z"/>
+   <path id="svg_64" fill="#007fff" d="m154.242241,385m-22.5,0a22.5,22.5 0 1 0 45,0a22.5,22.5 0 1 0 -45,0z"/>
+   <rect stroke="null" id="svg_65" height="45.454431" width="204.484347" y="441.886568" x="110.447803" stroke-opacity="null" stroke-width="null" fill="#007fff"/>
+   <rect stroke="null" id="svg_66" height="45.454431" width="205.817707" y="596.442323" x="110.447803" stroke-opacity="null" stroke-width="null" fill="#007fff"/>
+   <rect stroke="null" id="svg_67" height="45.454431" width="227.817689" y="518.260698" x="97.781128" stroke-opacity="null" stroke-width="null" fill="#007fff"/>
+  </g>
+ </g>
+</svg>
