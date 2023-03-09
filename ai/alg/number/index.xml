@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>神奇的数 on 码虫虫</title>
+    <link>http://codebugs.pub/ai/alg/number/</link>
+    <description>Recent content in 神奇的数 on 码虫虫</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>neochin2012@gmail.com (neochin)</managingEditor>
+    <webMaster>neochin2012@gmail.com (neochin)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 30 Jul 2021 12:01:11 +0800</lastBuildDate>
+    
+        <atom:link href="http://codebugs.pub/ai/alg/number/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>求一个数临近的2的整数次幂的数</title>
+        <link>http://codebugs.pub/ai/alg/number/round_power_of_2/</link>
+        <pubDate>Thu, 09 Sep 2021 10:04:41 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Thu, 09 Sep 2021 10:04:41 +0800</atom:modified>
+        <guid>http://codebugs.pub/ai/alg/number/round_power_of_2/</guid>
+        <description>2的整数次幂？ 2的整数次幂的特点 2的整数次幂的数，这里整数我们特指非负整数。 数学表示为$ 2^n, n \in N $，$ N $ 为非负整数（自然数）。我们看看这些</description>
+        
+        <dc:creator>neochin</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>算法</category>
+            
+          
+            
+              <category>神奇的数</category>
+            
+          
+        
+        
+          
+            
+              <category>算法</category>
+            
+          
+        
+        
+          
+            
+              <category>算法</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

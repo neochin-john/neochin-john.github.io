@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>开发 on 码虫虫</title>
+    <link>http://codebugs.pub/dev/</link>
+    <description>Recent content in 开发 on 码虫虫</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>neochin2012@gmail.com (neochin)</managingEditor>
+    <webMaster>neochin2012@gmail.com (neochin)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 06 Aug 2021 11:00:11 +0800</lastBuildDate>
+    
+        <atom:link href="http://codebugs.pub/dev/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>组件开发</title>
+        <link>http://codebugs.pub/dev/component/</link>
+        <pubDate>Fri, 06 Aug 2021 12:05:11 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Fri, 06 Aug 2021 12:05:11 +0800</atom:modified>
+        <guid>http://codebugs.pub/dev/component/</guid>
+        <description></description>
+        
+        <dc:creator>neochin</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>组件开发</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>工具</title>
+        <link>http://codebugs.pub/dev/tool/</link>
+        <pubDate>Fri, 06 Aug 2021 12:04:17 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Fri, 06 Aug 2021 12:04:17 +0800</atom:modified>
+        <guid>http://codebugs.pub/dev/tool/</guid>
+        <description></description>
+        
+        <dc:creator>neochin</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>工具</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Linux开发</title>
+        <link>http://codebugs.pub/dev/linux/</link>
+        <pubDate>Fri, 06 Aug 2021 12:03:10 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Fri, 06 Aug 2021 12:03:10 +0800</atom:modified>
+        <guid>http://codebugs.pub/dev/linux/</guid>
+        <description></description>
+        
+        <dc:creator>neochin</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>linux开发</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Web开发</title>
+        <link>http://codebugs.pub/dev/web/</link>
+        <pubDate>Fri, 06 Aug 2021 11:05:33 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Fri, 06 Aug 2021 11:05:33 +0800</atom:modified>
+        <guid>http://codebugs.pub/dev/web/</guid>
+        <description></description>
+        
+        <dc:creator>neochin</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>web开发</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Windows开发</title>
+        <link>http://codebugs.pub/dev/win/</link>
+        <pubDate>Fri, 06 Aug 2021 11:01:01 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Fri, 06 Aug 2021 11:01:01 +0800</atom:modified>
+        <guid>http://codebugs.pub/dev/win/</guid>
+        <description></description>
+        
+        <dc:creator>neochin</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Windows开发</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

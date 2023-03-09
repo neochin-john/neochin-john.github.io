@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>字符编码 on 码虫虫</title>
+    <link>http://codebugs.pub/showcase/charcode/</link>
+    <description>Recent content in 字符编码 on 码虫虫</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>neochin2012@gmail.com (neochin)</managingEditor>
+    <webMaster>neochin2012@gmail.com (neochin)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 03 Aug 2021 10:40:15 +0800</lastBuildDate>
+    
+        <atom:link href="http://codebugs.pub/showcase/charcode/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>weird text generator</title>
+        <link>http://codebugs.pub/showcase/charcode/weirdtextgenerator/</link>
+        <pubDate>Fri, 20 Aug 2021 16:10:07 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Fri, 20 Aug 2021 16:10:07 +0800</atom:modified>
+        <guid>http://codebugs.pub/showcase/charcode/weirdtextgenerator/</guid>
+        <description></description>
+        
+        <dc:creator>neochin</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>online utf8 tools</title>
+        <link>http://codebugs.pub/showcase/charcode/onlineutf8tools/</link>
+        <pubDate>Fri, 20 Aug 2021 16:01:07 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Fri, 20 Aug 2021 16:01:07 +0800</atom:modified>
+        <guid>http://codebugs.pub/showcase/charcode/onlineutf8tools/</guid>
+        <description></description>
+        
+        <dc:creator>neochin</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>online unicode tools</title>
+        <link>http://codebugs.pub/showcase/charcode/onlineunicodetools/</link>
+        <pubDate>Thu, 05 Aug 2021 17:31:07 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Thu, 05 Aug 2021 17:31:07 +0800</atom:modified>
+        <guid>http://codebugs.pub/showcase/charcode/onlineunicodetools/</guid>
+        <description></description>
+        
+        <dc:creator>neochin</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Unicode转换器</title>
+        <link>http://codebugs.pub/showcase/charcode/convertcodes/</link>
+        <pubDate>Thu, 05 Aug 2021 17:31:07 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Thu, 05 Aug 2021 17:31:07 +0800</atom:modified>
+        <guid>http://codebugs.pub/showcase/charcode/convertcodes/</guid>
+        <description></description>
+        
+        <dc:creator>neochin</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>乱码文字生成器</title>
+        <link>http://codebugs.pub/showcase/charcode/luanma/</link>
+        <pubDate>Thu, 05 Aug 2021 17:31:07 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Thu, 05 Aug 2021 17:31:07 +0800</atom:modified>
+        <guid>http://codebugs.pub/showcase/charcode/luanma/</guid>
+        <description></description>
+        
+        <dc:creator>neochin</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

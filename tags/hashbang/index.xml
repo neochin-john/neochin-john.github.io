@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>hashbang on 码虫虫</title>
+    <link>http://codebugs.pub/tags/hashbang/</link>
+    <description>Recent content in hashbang on 码虫虫</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>neochin2012@gmail.com (neochin)</managingEditor>
+    <webMaster>neochin2012@gmail.com (neochin)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 09 Aug 2021 12:05:22 +0800</lastBuildDate>
+    
+        <atom:link href="http://codebugs.pub/tags/hashbang/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>脚本第一行的 #! 是什么</title>
+        <link>http://codebugs.pub/lang/common/shebang/</link>
+        <pubDate>Mon, 09 Aug 2021 12:05:22 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Mon, 09 Aug 2021 12:05:22 +0800</atom:modified>
+        <guid>http://codebugs.pub/lang/common/shebang/</guid>
+        <description>初识 #! 我们经常在一些脚本的第一行看到#!开头的一段注释，例如在shell脚本中： 1 2 #!/usr/bin/bash echo hello world! 在python脚本中： 1 2 #!/usr/bin/python print(&amp;#34;hello world!&amp;#34;) 在我们熟知的几种</description>
+        
+        <dc:creator>neochin</dc:creator>
+        <media:content url="http://codebugs.pub//lang/images/shebang.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>bash</category>
+            
+          
+            
+              <category>shell</category>
+            
+          
+            
+              <category>shebang</category>
+            
+          
+            
+              <category>hashbang</category>
+            
+          
+        
+        
+          
+            
+              <category>shell</category>
+            
+          
+        
+        
+          
+            
+              <category>shell</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

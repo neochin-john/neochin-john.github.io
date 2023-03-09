@@ -13,7 +13,7 @@
     <language>zh</language>
     <managingEditor>neochin2012@gmail.com (neochin)</managingEditor>
     <webMaster>neochin2012@gmail.com (neochin)</webMaster>
-    <copyright>©2021, All Rights Reserved</copyright>
+    <copyright>©2023, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 30 Jul 2021 12:05:11 +0800</lastBuildDate>
     
         <atom:link href="http://codebugs.pub/ai/index.xml" rel="self" type="application/rss+xml" />
@@ -36,7 +36,127 @@
         
           
             
-              <category>index</category>
+              <category>机器学习</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>人脸识别</title>
+        <link>http://codebugs.pub/ai/facereg/</link>
+        <pubDate>Fri, 30 Jul 2021 12:01:11 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Fri, 30 Jul 2021 12:01:11 +0800</atom:modified>
+        <guid>http://codebugs.pub/ai/facereg/</guid>
+        <description></description>
+        
+        <dc:creator>neochin</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>人脸识别</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>算法</title>
+        <link>http://codebugs.pub/ai/alg/</link>
+        <pubDate>Fri, 30 Jul 2021 12:01:11 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Fri, 30 Jul 2021 12:01:11 +0800</atom:modified>
+        <guid>http://codebugs.pub/ai/alg/</guid>
+        <description></description>
+        
+        <dc:creator>neochin</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>算法</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>推荐系统</title>
+        <link>http://codebugs.pub/ai/recommend/</link>
+        <pubDate>Fri, 30 Jul 2021 12:01:11 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Fri, 30 Jul 2021 12:01:11 +0800</atom:modified>
+        <guid>http://codebugs.pub/ai/recommend/</guid>
+        <description></description>
+        
+        <dc:creator>neochin</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>推荐系统</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>文字识别</title>
+        <link>http://codebugs.pub/ai/ocr/</link>
+        <pubDate>Fri, 30 Jul 2021 12:01:11 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Fri, 30 Jul 2021 12:01:11 +0800</atom:modified>
+        <guid>http://codebugs.pub/ai/ocr/</guid>
+        <description></description>
+        
+        <dc:creator>neochin</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>文字识别</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>语音识别</title>
+        <link>http://codebugs.pub/ai/asr/</link>
+        <pubDate>Fri, 30 Jul 2021 12:01:11 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Fri, 30 Jul 2021 12:01:11 +0800</atom:modified>
+        <guid>http://codebugs.pub/ai/asr/</guid>
+        <description></description>
+        
+        <dc:creator>neochin</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>语音识别</category>
             
           
         

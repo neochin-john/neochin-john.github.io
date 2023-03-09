@@ -3,12 +3,147 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://codebugs.pub/</loc>
-    <lastmod>2021-08-03T10:40:15+08:00</lastmod>
+    <lastmod>2021-10-19T11:20:01+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/categories/</loc>
+    <lastmod>2021-10-19T11:20:01+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/fft/</loc>
+    <lastmod>2021-10-19T11:20:01+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/series/</loc>
+    <lastmod>2021-10-19T11:20:01+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/</loc>
+    <lastmod>2021-10-19T11:20:01+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/ai/alg/sort/bit_reverse_permutation/</loc>
+    <lastmod>2021-10-19T11:20:01+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/%E6%8E%92%E5%BA%8F/</loc>
+    <lastmod>2021-10-19T11:20:01+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2021-10-19T11:20:01+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/series/%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2021-10-19T11:20:01+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/categories/%E7%AE%97%E6%B3%95/</loc>
+    <lastmod>2021-10-19T11:20:01+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/ai/alg/number/round_power_of_2/</loc>
+    <lastmod>2021-09-09T10:04:41+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/%E7%A5%9E%E5%A5%87%E7%9A%84%E6%95%B0/</loc>
+    <lastmod>2021-09-09T10:04:41+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/showcase/charcode/weirdtextgenerator/</loc>
+    <lastmod>2021-08-20T16:10:07+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/showcase/charcode/onlineutf8tools/</loc>
+    <lastmod>2021-08-20T16:01:07+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/lang/common/charenc/myexp/</loc>
+    <lastmod>2021-08-16T12:08:12+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81/</loc>
+    <lastmod>2021-08-16T12:08:12+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/series/%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81/</loc>
+    <lastmod>2021-08-16T12:08:12+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/categories/%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81/</loc>
+    <lastmod>2021-08-16T12:08:12+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/bash/</loc>
+    <lastmod>2021-08-09T12:05:22+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/hashbang/</loc>
+    <lastmod>2021-08-09T12:05:22+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/shebang/</loc>
+    <lastmod>2021-08-09T12:05:22+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/shell/</loc>
+    <lastmod>2021-08-09T12:05:22+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/series/shell/</loc>
+    <lastmod>2021-08-09T12:05:22+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/categories/shell/</loc>
+    <lastmod>2021-08-09T12:05:22+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/lang/common/shebang/</loc>
+    <lastmod>2021-08-09T12:05:22+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/%E7%BB%84%E4%BB%B6%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2021-08-06T12:05:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/dev/component/</loc>
+    <lastmod>2021-08-06T12:05:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2021-08-06T12:04:17+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/dev/tool/</loc>
+    <lastmod>2021-08-06T12:04:17+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/linux%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2021-08-06T12:03:10+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/dev/linux/</loc>
+    <lastmod>2021-08-06T12:03:10+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/web%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2021-08-06T11:05:33+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/dev/web/</loc>
+    <lastmod>2021-08-06T11:05:33+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/windows%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2021-08-06T11:01:01+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/dev/win/</loc>
+    <lastmod>2021-08-06T11:01:01+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/deploy/</loc>
+    <lastmod>2021-08-06T11:00:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/dev/</loc>
+    <lastmod>2021-08-06T11:00:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/db/</loc>
+    <lastmod>2021-08-06T11:00:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/net/</loc>
+    <lastmod>2021-08-06T11:00:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/showcase/res/iconfont/</loc>
+    <lastmod>2021-08-05T17:31:07+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/showcase/charcode/onlineunicodetools/</loc>
+    <lastmod>2021-08-05T17:31:07+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/showcase/charcode/convertcodes/</loc>
+    <lastmod>2021-08-05T17:31:07+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/showcase/charcode/luanma/</loc>
+    <lastmod>2021-08-05T17:31:07+08:00</lastmod>
   </url><url>
     <loc>http://codebugs.pub/showcase/learn/</loc>
     <lastmod>2021-08-03T10:40:15+08:00</lastmod>
   </url><url>
+    <loc>http://codebugs.pub/showcase/res/</loc>
+    <lastmod>2021-08-03T10:40:15+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/showcase/charcode/</loc>
+    <lastmod>2021-08-03T10:40:15+08:00</lastmod>
+  </url><url>
     <loc>http://codebugs.pub/showcase/</loc>
+    <lastmod>2021-08-03T10:36:15+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/publication/</loc>
     <lastmod>2021-08-03T10:36:15+08:00</lastmod>
   </url><url>
     <loc>http://codebugs.pub/showcase/learn/learnxinyminutes/</loc>
@@ -16,30 +151,6 @@
   </url><url>
     <loc>http://codebugs.pub/showcase/learn/runoob/</loc>
     <lastmod>2021-08-03T10:35:37+08:00</lastmod>
-  </url><url>
-    <loc>http://codebugs.pub/tags/bash/</loc>
-    <lastmod>2021-08-03T10:05:11+08:00</lastmod>
-  </url><url>
-    <loc>http://codebugs.pub/categories/</loc>
-    <lastmod>2021-08-03T10:05:11+08:00</lastmod>
-  </url><url>
-    <loc>http://codebugs.pub/series/</loc>
-    <lastmod>2021-08-03T10:05:11+08:00</lastmod>
-  </url><url>
-    <loc>http://codebugs.pub/tags/shell/</loc>
-    <lastmod>2021-08-03T10:05:11+08:00</lastmod>
-  </url><url>
-    <loc>http://codebugs.pub/series/shell/</loc>
-    <lastmod>2021-08-03T10:05:11+08:00</lastmod>
-  </url><url>
-    <loc>http://codebugs.pub/categories/shell/</loc>
-    <lastmod>2021-08-03T10:05:11+08:00</lastmod>
-  </url><url>
-    <loc>http://codebugs.pub/lang/shell/base/</loc>
-    <lastmod>2021-08-03T10:05:11+08:00</lastmod>
-  </url><url>
-    <loc>http://codebugs.pub/tags/</loc>
-    <lastmod>2021-08-03T10:05:11+08:00</lastmod>
   </url><url>
     <loc>http://codebugs.pub/about/</loc>
     <lastmod>2021-08-02T10:24:43+08:00</lastmod>
@@ -50,19 +161,102 @@
     <loc>http://codebugs.pub/ai/</loc>
     <lastmod>2021-07-30T12:05:11+08:00</lastmod>
   </url><url>
-    <loc>http://codebugs.pub/ai/ml/em/</loc>
+    <loc>http://codebugs.pub/lang/c_cpp/</loc>
     <lastmod>2021-07-30T12:05:11+08:00</lastmod>
   </url><url>
-    <loc>http://codebugs.pub/tags/index/</loc>
+    <loc>http://codebugs.pub/tags/golang/</loc>
+    <lastmod>2021-07-30T12:05:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/lang/golang/</loc>
+    <lastmod>2021-07-30T12:05:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/java/</loc>
+    <lastmod>2021-07-30T12:05:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/lang/java/</loc>
+    <lastmod>2021-07-30T12:05:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/javascript/</loc>
+    <lastmod>2021-07-30T12:05:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/lang/js/</loc>
+    <lastmod>2021-07-30T12:05:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/perl/</loc>
+    <lastmod>2021-07-30T12:05:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/lang/perl/</loc>
+    <lastmod>2021-07-30T12:05:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/python/</loc>
+    <lastmod>2021-07-30T12:05:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/lang/python/</loc>
+    <lastmod>2021-07-30T12:05:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/rust/</loc>
+    <lastmod>2021-07-30T12:05:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/lang/rust/</loc>
     <lastmod>2021-07-30T12:05:11+08:00</lastmod>
   </url><url>
     <loc>http://codebugs.pub/lang/shell/</loc>
     <lastmod>2021-07-30T12:05:11+08:00</lastmod>
   </url><url>
+    <loc>http://codebugs.pub/tags/%E6%B1%87%E7%BC%96/</loc>
+    <lastmod>2021-07-30T12:05:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/lang/asm/</loc>
+    <lastmod>2021-07-30T12:05:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2021-07-30T12:05:11+08:00</lastmod>
+  </url><url>
     <loc>http://codebugs.pub/ai/ml/</loc>
+    <lastmod>2021-07-30T12:05:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/lang/common/</loc>
     <lastmod>2021-07-30T12:05:11+08:00</lastmod>
   </url><url>
     <loc>http://codebugs.pub/lang/</loc>
     <lastmod>2021-07-30T12:05:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/lang/common/charenc/</loc>
+    <lastmod>2021-07-30T12:05:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/ai/alg/sort/</loc>
+    <lastmod>2021-07-30T12:01:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB/</loc>
+    <lastmod>2021-07-30T12:01:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/ai/facereg/</loc>
+    <lastmod>2021-07-30T12:01:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/ai/alg/number/</loc>
+    <lastmod>2021-07-30T12:01:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/ai/alg/</loc>
+    <lastmod>2021-07-30T12:01:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2021-07-30T12:01:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/ai/recommend/</loc>
+    <lastmod>2021-07-30T12:01:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB/</loc>
+    <lastmod>2021-07-30T12:01:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/ai/ocr/</loc>
+    <lastmod>2021-07-30T12:01:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB/</loc>
+    <lastmod>2021-07-30T12:01:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/ai/asr/</loc>
+    <lastmod>2021-07-30T12:01:11+08:00</lastmod>
+  </url><url>
+    <loc>http://codebugs.pub/tags/c-/-c&#43;&#43;/</loc>
   </url>
 </urlset>

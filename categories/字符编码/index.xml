@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>字符编码 on 码虫虫</title>
+    <link>http://codebugs.pub/categories/%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81/</link>
+    <description>Recent content in 字符编码 on 码虫虫</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>neochin2012@gmail.com (neochin)</managingEditor>
+    <webMaster>neochin2012@gmail.com (neochin)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 16 Aug 2021 12:08:12 +0800</lastBuildDate>
+    
+        <atom:link href="http://codebugs.pub/categories/%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>乱码了？-- 我的乱码遭遇史</title>
+        <link>http://codebugs.pub/lang/common/charenc/myexp/</link>
+        <pubDate>Mon, 16 Aug 2021 12:08:12 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Mon, 16 Aug 2021 12:08:12 +0800</atom:modified>
+        <guid>http://codebugs.pub/lang/common/charenc/myexp/</guid>
+        <description>前言 乱码是一个让人头痛的问题，码虫们或多或少都会遇到。 在度娘上搜答案，往往不能让开发者满意，我列出了一些外网搜索有帮助的关键词： unreadable characters gibberish garbled text mojibake</description>
+        
+        <dc:creator>neochin</dc:creator>
+        <media:content url="http://codebugs.pub//lang/common/charenc/images/garbled_wordcloud.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>字符编码</category>
+            
+          
+        
+        
+          
+            
+              <category>字符编码</category>
+            
+          
+        
+        
+          
+            
+              <category>字符编码</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>算法 on 码虫虫</title>
+    <link>http://codebugs.pub/categories/%E7%AE%97%E6%B3%95/</link>
+    <description>Recent content in 算法 on 码虫虫</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>neochin2012@gmail.com (neochin)</managingEditor>
+    <webMaster>neochin2012@gmail.com (neochin)</webMaster>
+    <copyright>©2023, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 19 Oct 2021 11:20:01 +0800</lastBuildDate>
+    
+        <atom:link href="http://codebugs.pub/categories/%E7%AE%97%E6%B3%95/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>倒位序重排</title>
+        <link>http://codebugs.pub/ai/alg/sort/bit_reverse_permutation/</link>
+        <pubDate>Tue, 19 Oct 2021 11:20:01 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Tue, 19 Oct 2021 11:20:01 +0800</atom:modified>
+        <guid>http://codebugs.pub/ai/alg/sort/bit_reverse_permutation/</guid>
+        <description>概述 本文列出了倒位序重排的原始问题，数列的规律和性质，以及暴力解法、kaldi中的迭代解法、倒位序重排三种解法，并给出了理论证明。最后对问题</description>
+        
+        <dc:creator>neochin</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>算法</category>
+            
+          
+            
+              <category>排序</category>
+            
+          
+            
+              <category>FFT</category>
+            
+          
+        
+        
+          
+            
+              <category>算法</category>
+            
+          
+        
+        
+          
+            
+              <category>算法</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>求一个数临近的2的整数次幂的数</title>
+        <link>http://codebugs.pub/ai/alg/number/round_power_of_2/</link>
+        <pubDate>Thu, 09 Sep 2021 10:04:41 +0800</pubDate>
+        <author>neochin2012@gmail.com (neochin)</author>
+        <atom:modified>Thu, 09 Sep 2021 10:04:41 +0800</atom:modified>
+        <guid>http://codebugs.pub/ai/alg/number/round_power_of_2/</guid>
+        <description>2的整数次幂？ 2的整数次幂的特点 2的整数次幂的数，这里整数我们特指非负整数。 数学表示为$ 2^n, n \in N $，$ N $ 为非负整数（自然数）。我们看看这些</description>
+        
+        <dc:creator>neochin</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>算法</category>
+            
+          
+            
+              <category>神奇的数</category>
+            
+          
+        
+        
+          
+            
+              <category>算法</category>
+            
+          
+        
+        
+          
+            
+              <category>算法</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
