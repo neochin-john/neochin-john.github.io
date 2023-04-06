@@ -2819,7 +2819,8 @@ $x_{n} = BR(i_{n}, n+1)$</p>
 <p>总共为:</p>
 <ul>
 <li>0改1次数：$N$</li>
-<li>1改0次数：$( \frac N 2 \times 1 + \frac N 4 \times 2 + \frac N 8 \times 3 + &hellip; + \frac N {2^{log_2^N}} \times log_2^N ) = \sum\limits_{n = 1}^{log_2^N} \frac {N} {2^n} \times n$</li>
+<li>1改0次数：<br />
+$$ ( \frac N 2 \times 1 + \frac N 4 \times 2 + \frac N 8 \times 3 + \cdots + \frac N {2^{log_2^N}} \times log_2^N ) = \sum\limits_{n = 1}^{log_2^N} \frac {N} {2^n} \times n $$</li>
 </ul>
 <p>因为 $\lim_{n \rightarrow \infty} \frac {N} {2^n} \times n = 0$, 所以1改0的次数逐渐趋于常量($C$)。因此，算法时间复杂度为$O(N)$。</p>
 <h3 id="重排">重排</h3>
@@ -4433,7 +4434,7 @@ document.addEventListener('DOMContentLoaded', function () {
   };
   </script>
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" id="MathJax-script"></script>
+  <script async src="https://gcore.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" id="MathJax-script"></script>
 
 
 
